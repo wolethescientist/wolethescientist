@@ -1,32 +1,57 @@
-Hi 👋 My name is Wole
-=====================
+<h1 align="center">Hi, I'm David (Oluwole) Aiyewumi 👋</h1>
+<h3 align="center">Backend Engineer · Abuja, Nigeria</h3>
 
-Data Scientist and AI/ML Engineer
----------------------------------
-
-I am a Data Scientist and AI/ML Engineer with proven experience designing, developing, and deploying end-to-end AI solutions across domains such as cybersecurity, speech processing, and data analytics. I’ve built and productionized machine learning models including phishing URL and password strength classifiers, deepfake detection systems using CNNs, and real-time energy consumption predictors. My work includes deploying RESTful APIs using FastAPI and Flask, managing model training pipelines, optimizing data workflows with PySpark, and integrating third-party services like Picovoice, Langchain, and Gemini APIs. I specialize in Python, SQL, TensorFlow, Scikit-learn, NLP, and cloud-friendly API deployment, with a strong foundation in feature engineering, EDA, and model evaluation. I’m currently open to technical roles and freelance projects where I can build intelligent, scalable systems that solve real-world problems.
-
-* 🌍  I'm based in Nigeria, Abuja
-* ✉️  You can contact me at [davidaiyewumi1@gmail.com](mailto:davidaiyewumi1@gmail.com)
-* 🤝  I'm open to collaborating on AI/ML and Data science projects
-
-<a href="https://www.github.com/wolethescientist" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/wolethescientist?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<p align="center">
+I build production backend systems and AI-powered services — APIs, real-time infrastructure, and the unglamorous plumbing that makes products actually work.
 </p>
 
+<p align="center">
+  <a href="mailto:davidaiyewumi1@gmail.com"><img src="https://img.shields.io/badge/Email-davidaiyewumi1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/david-aiyewumi"><img src="https://img.shields.io/badge/LinkedIn-david--aiyewumi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/wolethescientist" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/daveyrn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/david-aiyewumi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/codewithwole" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@daveyrn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+### About Me
 
-### Badges
+I'm a backend engineer with 3 years of production experience shipping APIs, background workers, and cloud-deployed services across government platforms, fintech, logistics, and enterprise applications in Nigeria. I've built a video conferencing system from scratch on a self-hosted media server, a stateless email engine with custom SMTP/IMAP logic, and several AI-powered backend services using LLMs and RAG pipelines.
 
-<b>Top Repositories</b>
+I care about systems that hold up under real load, not just demos.
 
-<div width="100%" align="center"><a href="https://github.com/wolethescientist/AI-Powered-PDF-summarizer-and-quiz-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wolethescientist&repo=AI-Powered-PDF-summarizer-and-quiz-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Data & Queues:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![BullMQ](https://img.shields.io/badge/-BullMQ-FF4154?style=flat-square)
+
+**Infrastructure:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI / LLM:** ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) RAG · Vector Databases · LLM Integration
+
+---
+
+### Featured Projects
+
+**[LiftBy4West](https://lift.4westaero.com)** — A luggage-hailing platform, like Uber but for luggage. Users send their bags ahead instead of carrying them. Built with Node.js, PostgreSQL, BullMQ, and Redis for caching, with Google Maps API for live tracking and Paystack for payments.
+
+**[NAAPE Membership Platform](https://naape.ng)** — Web and mobile membership platform serving 3,000+ members. Node.js and TypeScript backend, React.js web, React Native mobile, covering authentication, profiles, and access control.
+
+**[Audit Management System](https://audit-system-iota.vercel.app/)** — Audit management system built with Node.js, Next.js, Prisma, and SQL Server. Uses BullMQ for background jobs, Redis for caching, and AI-driven predictive analytics to flag anomalies ahead of time.
+
+**[Video Conferencing API](https://video-conferencing-api.onrender.com/docs#/)** — Full video conferencing backend engineered from scratch with FastAPI and an open-source media server, no third-party conferencing service involved. Handles signaling, session management, and real-time media routing, with speech-to-text and AI-generated meeting summaries.
+
+**Email Engine** — A stateless email client that connects to any email provider via custom SMTP/IMAP logic. Includes AI-powered drafting and summarization, JWT authentication with AES-encrypted credentials, and a spam classifier trained with Scikit-Learn.
+
+**AI System Design Generator** — Turns a plain-English prompt into system architecture diagrams, data models, and flowcharts using an LLM, LangChain, and a custom renderer-selection service.
+
+---
+
+
+
+<p align="center">
+  <i>Open to remote backend and AI engineering roles.</i>
+</p>
