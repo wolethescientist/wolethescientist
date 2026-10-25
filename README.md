@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm David Oluwole Aiyewumi 👋</h1>
-<h3 align="center">Backend Engineer · Abuja, Nigeria</h3>
+<h3 align="center">Full stack Engineer· Abuja, Nigeria</h3>
 
 <p align="center">
-I build production backend systems and AI-powered services — APIs, real-time infrastructure, and the unglamorous plumbing that makes products actually work.
+I build production systems and AI-powered services — APIs, real-time infrastructure, Beautiful designs etc.
 </p>
 
 <p align="center">
